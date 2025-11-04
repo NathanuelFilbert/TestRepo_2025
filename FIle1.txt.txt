@@ -1,3 +1,1 @@
 edit file 1 diremote
-tambah baris
-edit baris di remote
